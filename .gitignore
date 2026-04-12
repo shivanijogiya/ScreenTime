@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+# Virtual env (IMPORTANT)
+.venv/
+.venv2/
+venv/
+.venv/
+.venv2/
+__pycache__/
+*.pyc
+.env
+
+# Environment variables
+.env
+
+# Node (if frontend uses it later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.db-journal
+
+# Docker (optional ignore)
+*.tar
+
+# Build / dist
+dist/
+build/
+
+# Coverage / test
+.coverage
+htmlcov/
+
+# Misc
+*.swp
