@@ -3,7 +3,6 @@
  **Distributed Computing Project** | Author: Shivani Jogiya  
  Stack: FastAPI · PostgreSQL · MQTT · Redis · Federated ML
 
----
 
 ## 1. Refined Architecture
 
