@@ -1,7 +1,7 @@
 # ScreenSync — Production-Grade Cross-Device Screen-Time Management System
 
-> **Distributed Computing Project** | Author: Shivani Jogiya  
-> Stack: FastAPI · PostgreSQL · MQTT · Redis · Federated ML
+ **Distributed Computing Project** | Author: Shivani Jogiya  
+ Stack: FastAPI · PostgreSQL · MQTT · Redis · Federated ML
 
 ---
 
