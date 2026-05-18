@@ -4,7 +4,7 @@
  Stack: FastAPI · PostgreSQL · MQTT · Redis · Federated ML
 
 
-## 1. Refined Architecture
+## 1. Refined Architecture: 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
